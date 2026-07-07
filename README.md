@@ -49,69 +49,52 @@ B.Tech CSE Student | Full Stack Developer | Java Enthusiast | AI & Web Developme
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Current Focus
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Srikar-arch&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Srikar-arch&layout=compact&theme=tokyonight"/>
-
-</p>
+- 🌱 Learning Java & Spring Boot
+- 💻 Building Full-Stack Web Applications
+- 🤖 Exploring AI-powered Projects
+- 🏆 Participating in Hackathons
 
 ---
 
-# 🔥 GitHub Streak
+## 🎯 2026 Goals
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Srikar-arch&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srikar-arch&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
+- ✅ Land a Software Development Internship
+- ✅ Solve 300+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Build 10+ Full-Stack Projects
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🎓 College Management System
+A full-stack college management platform built using **Flask** and **SQLite** featuring secure authentication, OTP-based password reset, student management, and an admin dashboard.
 
-✔ Flask
-
-✔ SQLite
-
-✔ OTP Authentication
-
-✔ Student Dashboard
-
-✔ Admin Panel
+**Tech Stack:** Flask • SQLite • HTML • CSS • JavaScript
 
 ---
 
 ### 📚 SkillStream
 
-Learning platform that recommends educational YouTube content for different skills.
+An online learning platform that helps users discover curated YouTube resources to learn new skills.
+
+**Tech Stack:** Flask • Python • HTML • CSS • JavaScript
 
 ---
 
 ### 🛡 Grievance App
 
-Complaint Management System built using JavaScript technologies.
+A web application for submitting, tracking, and managing complaints with separate user and admin workflows.
+
+**Tech Stack:** JavaScript • Node.js • Express • MongoDB
 
 ---
 
-### ⚔ Prompt Wars Project
+### ⚔ Prompt Wars Project {SMART BHARAT AI}
 
-AI-powered project developed during Prompt Wars hackathon.
+Built during the Prompt Wars hackathon using AI tools to solve real-world challenges with effective prompt engineering.
 
 ---
 
