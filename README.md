@@ -53,9 +53,9 @@ B.Tech CSE Student | Full Stack Developer | Java Enthusiast | AI & Web Developme
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Srikar-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Srikar-arch&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Srikar-arch&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -65,7 +65,7 @@ B.Tech CSE Student | Full Stack Developer | Java Enthusiast | AI & Web Developme
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Srikar-arch&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Srikar-arch&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -75,7 +75,7 @@ B.Tech CSE Student | Full Stack Developer | Java Enthusiast | AI & Web Developme
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srikar-arch&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srikar-arch&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
