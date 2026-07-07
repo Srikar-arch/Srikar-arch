@@ -1,44 +1,148 @@
-## Hi there 👋
-# Hi 👋 I'm Srikar
+<h1 align="center">Hi 👋, I'm Srikar Balal</h1>
 
-💻 B.Tech CSE Student at Amity University Mumbai
+<h3 align="center">
+B.Tech CSE Student | Full Stack Developer | Java Enthusiast | AI & Web Development
+</h3>
 
-🚀 Full Stack Developer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;Python+Programmer;Hackathon+Participant;Always+Learning+New+Technologies" />
+</p>
 
-## Skills
+---
 
-- Java
-- Python
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- Git
-- HTML/CSS
+## 🚀 About Me
 
-## Currently Learning
+- 🎓 B.Tech Computer Science Engineering at **Amity University Mumbai**
+- 💻 Passionate about **Full Stack Web Development**
+- 🌱 Currently learning **Java, Data Structures & Algorithms, Spring Boot**
+- 🤖 Interested in **Artificial Intelligence & Software Development**
+- 🏆 Active participant in Hackathons and Coding Competitions
+- 📍 India
 
-- Spring Boot
-- Data Structures
-- System Design
+---
 
-## Projects
+## 🛠 Tech Stack
 
-🎯 Smart Bharat AI
-A Government Platform for all Public Services
+### Languages
 
-🎯 SkillStream
-A platform for learning skills through YouTube.
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
+</p>
 
-🎯 College Management System
-Full Stack Flask Application.
+### Frameworks & Libraries
 
-🎯 Grievance Portal
-Complaint Management System.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+</p>
 
-## Connect
+### Database
 
-LinkedIn:
-www.linkedin.com/in/bala-srikar-8018a22bb
-Email: balasrikar89@gmail.com
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Srikar-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Srikar-arch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srikar-arch&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 College Management System
+
+✔ Flask
+
+✔ SQLite
+
+✔ OTP Authentication
+
+✔ Student Dashboard
+
+✔ Admin Panel
+
+---
+
+### 📚 SkillStream
+
+Learning platform that recommends educational YouTube content for different skills.
+
+---
+
+### 🛡 Grievance App
+
+Complaint Management System built using JavaScript technologies.
+
+---
+
+### ⚔ Prompt Wars Project
+
+AI-powered project developed during Prompt Wars hackathon.
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srikar-arch&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="www.linkedin.com/in/bala-srikar-8018a22bb">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:balasrikar89@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
